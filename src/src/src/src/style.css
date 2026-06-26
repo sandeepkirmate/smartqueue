@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0f0f0f;
+  color: #f5d36a;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+}
+
+.tagline {
+  color: white;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: #1a1a1a;
+  margin: 15px auto;
+  padding: 20px;
+  width: 80%;
+  border-radius: 12px;
+}
+
+.btn {
+  background: gold;
+  border: none;
+  padding: 12px 20px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.footer {
+  margin-top: 30px;
+  font-size: 14px;
+  color: #aaa;
+}
